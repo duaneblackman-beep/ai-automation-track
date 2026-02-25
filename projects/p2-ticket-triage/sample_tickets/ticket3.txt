@@ -1,0 +1,1 @@
+My laptop won't connect to the VPN. I'm working from home. Using Cisco AnyConnect. It says "Connection attempt failed." I've tried restarting the app and my laptop. This is my second day at the company.

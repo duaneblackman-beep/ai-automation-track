@@ -1,0 +1,1 @@
+User can't log into Okta. Getting stuck in an MFA loop — it sends the push notification, she approves it, then it immediately asks for MFA again. Affects the trading desk. She has a market open in 10 minutes.
